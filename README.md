@@ -3,7 +3,7 @@
 
 Name: Ryan Crane
 
-ONID ID: `ONID_ID`
+ONID ID: cranery
 
 Link to my CS 290 page: `CS290_PAGE_URL`
 
